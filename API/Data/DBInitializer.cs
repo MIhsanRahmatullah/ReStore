@@ -17,7 +17,7 @@ namespace API.Data
                     Name = "Xiaomi Redmi Note 8",
                     Description = "Original",
                     Price = 2000000,
-                    PictureUrl = "/images/products/xiaomiRedmiNote8.jpg",
+                    PictureUrl = "/images/products/xiaomiRedmiNote8.png",
                     Brand = "Xiaomi",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -27,7 +27,7 @@ namespace API.Data
                     Name = "Xiaomi Redmi Note 7",
                     Description = "Original",
                     Price = 1500000,
-                    PictureUrl = "images/products/xiaomiRedmiNote7.jpg",
+                    PictureUrl = "images/products/xiaomiRedmiNote7.png",
                     Brand = "Xiaomi",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -37,7 +37,7 @@ namespace API.Data
                     Name = "Xiaomi Redmi Note 9",
                     Description = "Original",
                     Price = 1500000,
-                    PictureUrl = "images/products/xiaomiRedmiNote9.jpg",
+                    PictureUrl = "images/products/xiaomiRedmiNote9.png",
                     Brand = "Xiaomi",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -47,7 +47,7 @@ namespace API.Data
                     Name = "Xiaomi Redmi Note 10",
                     Description = "Original",
                     Price = 1500000,
-                    PictureUrl = "images/products/xiaomiRedmiNote7.jpg",
+                    PictureUrl = "images/products/xiaomiRedmiNote7.png",
                     Brand = "Xiaomi",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -57,7 +57,7 @@ namespace API.Data
                     Name = "Xiaomi Redmi Note 11",
                     Description = "Original",
                     Price = 1500000,
-                    PictureUrl = "images/products/xiaomiRedmiNote7.jpg",
+                    PictureUrl = "images/products/xiaomiRedmiNote7.png",
                     Brand = "Xiaomi",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -67,7 +67,7 @@ namespace API.Data
                     Name = "Iphone X",
                     Description = "Original",
                     Price = 8000000,
-                    PictureUrl = "images/products/iphoneX.jpg",
+                    PictureUrl = "images/products/iphoneX.png",
                     Brand = "Apple",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -77,7 +77,7 @@ namespace API.Data
                     Name = "Iphone XR",
                     Description = "Original",
                     Price = 10000000,
-                    PictureUrl = "images/products/iphoneXR.jpg",
+                    PictureUrl = "images/products/iphoneXR.png",
                     Brand = "Apple",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -87,7 +87,7 @@ namespace API.Data
                     Name = "Iphone XS",
                     Description = "Original",
                     Price = 10000000,
-                    PictureUrl = "images/products/iphoneXS.jpg",
+                    PictureUrl = "images/products/iphoneXS.png",
                     Brand = "Apple",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -97,7 +97,7 @@ namespace API.Data
                     Name = "Iphone 11",
                     Description = "Original",
                     Price = 12000000,
-                    PictureUrl = "images/products/iphone11.jpg",
+                    PictureUrl = "images/products/iphone11.png",
                     Brand = "Apple",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -107,7 +107,7 @@ namespace API.Data
                     Name = "Iphone 12",
                     Description = "Original",
                     Price = 14000000,
-                    PictureUrl = "images/products/iphone12.jpg",
+                    PictureUrl = "images/products/iphone12.png",
                     Brand = "Apple",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -117,7 +117,7 @@ namespace API.Data
                     Name = "Iphone 13",
                     Description = "Original",
                     Price = 16000000,
-                    PictureUrl = "images/products/iphone13.jpg",
+                    PictureUrl = "images/products/iphone13.png",
                     Brand = "Apple",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -127,7 +127,7 @@ namespace API.Data
                     Name = "Oppo A5S",
                     Description = "Original",
                     Price = 3000000,
-                    PictureUrl = "images/products/oppoA5S.jpg",
+                    PictureUrl = "images/products/oppoA5S.png",
                     Brand = "Oppo",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -137,7 +137,7 @@ namespace API.Data
                     Name = "Oppo Reno 5",
                     Description = "Original",
                     Price = 4000000,
-                    PictureUrl = "images/products/oppoReno5.jpg",
+                    PictureUrl = "images/products/oppoReno5.png",
                     Brand = "Oppo",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -147,7 +147,7 @@ namespace API.Data
                     Name = "Vivo V20",
                     Description = "Original",
                     Price = 3000000,
-                    PictureUrl = "images/products/vivoV20.jpg",
+                    PictureUrl = "images/products/vivoV20.png",
                     Brand = "Vivo",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -157,7 +157,7 @@ namespace API.Data
                     Name = "Vivo Y12",
                     Description = "Original",
                     Price = 2000000,
-                    PictureUrl = "images/products/vivoY12.jpg",
+                    PictureUrl = "images/products/vivoY12.png",
                     Brand = "Vivo",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -167,7 +167,7 @@ namespace API.Data
                     Name = "Samsung Galaxy A52",
                     Description = "Original",
                     Price = 4000000,
-                    PictureUrl = "images/products/samsungGalaxyA52.jpg",
+                    PictureUrl = "images/products/samsungGalaxyA52.png",
                     Brand = "Samsung",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -177,7 +177,7 @@ namespace API.Data
                     Name = "Samsung Galaxy A72",
                     Description = "Original",
                     Price = 6000000,
-                    PictureUrl = "images/products/samsungGalaxyA72.jpg",
+                    PictureUrl = "images/products/samsungGalaxyA72.png",
                     Brand = "Samsung",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -187,7 +187,7 @@ namespace API.Data
                     Name = "Samsung Galaxy Fold",
                     Description = "Original",
                     Price = 10000000,
-                    PictureUrl = "images/products/samsungGalaxyFold.jpg",
+                    PictureUrl = "images/products/samsungGalaxyFold.png",
                     Brand = "Samsung",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -197,7 +197,7 @@ namespace API.Data
                     Name = "Samsung Galaxy Note 10",
                     Description = "Original",
                     Price = 8000000,
-                    PictureUrl = "images/products/samsungGalaxyNote10.jpg",
+                    PictureUrl = "images/products/samsungGalaxyNote10.png",
                     Brand = "Samsung",
                     Type = "SmartPhone",
                     QuantityInStock = 100
@@ -207,7 +207,7 @@ namespace API.Data
                     Name = "Cable Type C",
                     Description = "Original",
                     Price = 30000,
-                    PictureUrl = "images/products/chargerTypeC.jpg",
+                    PictureUrl = "images/products/chargerTypeC.png",
                     Brand = "No Brand",
                     Type = "accessories",
                     QuantityInStock = 100
@@ -217,7 +217,7 @@ namespace API.Data
                     Name = "Headset",
                     Description = "Original",
                     Price = 20000,
-                    PictureUrl = "images/products/headset.jpg",
+                    PictureUrl = "images/products/headset.png",
                     Brand = "No Brand",
                     Type = "accessories",
                     QuantityInStock = 100
